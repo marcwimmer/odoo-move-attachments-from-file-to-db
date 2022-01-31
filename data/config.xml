@@ -1,0 +1,10 @@
+<odoo>
+	<data noupdate='0'>
+
+	<record model='ir.config_parameter' id='dblocation'>
+		<field name='key'>ir_attachment.location</field>
+		<field name='value'>db</field>
+	</record>
+
+	</data>
+</odoo>
